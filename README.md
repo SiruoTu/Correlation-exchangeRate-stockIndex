@@ -1,1 +1,1 @@
-# Correlation-exchangeRate-stockIndex
+# Correlation between Exchange Rate and Stock Index
